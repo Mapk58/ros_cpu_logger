@@ -1,4 +1,4 @@
 <launch>
-    <node pkg="cpu_logger" type="cpu_logger_node.py" name="cpu_logger_node" output="screen">
+    <node pkg="jtop_monitor" type="cpu_logger_node.py" name="jtop_monitor_node" output="screen">
     </node>
 </launch>
